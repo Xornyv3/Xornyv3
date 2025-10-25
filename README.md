@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Have fun while stalking :p
 Yo, sup?<br><br>I build random stuff for fun: AI models, apps, robots, circuits, you name it<br><br>Electrical engineering student by day, sleepless builder by night<br><br>Currently trying to make a travel app, an industry dashboard, and a smart Notion… all at once<br><br>I design PCBs, code things until they work, then act like I planned it<br><br>Fluent in English, French, and “why is this not working?”<br><br>If it has wires, AI, or caffeine involved — I’m in.<br><br>(I'm also pretty lazy tbh)
 
 
