@@ -20,4 +20,4 @@ Yo, sup?<br><br>I build random stuff for fun: AI models, apps, robots, circuits,
 
 
 
-My pleasure !
+(I'm beyond broke pls)
