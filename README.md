@@ -1,4 +1,4 @@
-# Have fun while stalking :D
+# Have fun while stalking ☕
 Electrical engineering student building software, hardware, and the systems in between.<br><br>
 I work with AI, embedded systems, and full stack development using Python, C and C++, JavaScript and TypeScript.<br><br>
 I design PCBs, build with microcontrollers, and create 3D CAD models, while also developing apps and dashboards deployed with AWS, Azure, Firebase, and Cloudflare.<br><br>
