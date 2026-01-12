@@ -1,9 +1,11 @@
 # Have fun while stalking ☕
+<p style="font-size: 1.1rem;">
 Electrical engineering student building software, hardware, and the systems in between.<br><br>
 I work with AI, embedded systems, and full stack development using Python, C and C++, JavaScript and TypeScript.<br><br>
 I design PCBs, build with microcontrollers, and create 3D CAD models, while also developing apps and dashboards deployed with AWS, Azure, Firebase, and Cloudflare.<br><br>
 Focused on practical engineering, iteration, and turning ideas into working systems.<br><br>
-Nice to meet you !<br><br>
+Nice to meet you :)
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdoullah-alalgui-59b11829b)
