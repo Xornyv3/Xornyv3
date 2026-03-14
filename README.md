@@ -1,5 +1,5 @@
 
-# Have fun dear stalker ☕
+# Hello stalker :D
 
 <h3>
 Electrical engineering student building software, hardware, and the systems in between.<br><br>
